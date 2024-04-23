@@ -1,6 +1,3 @@
-# gofleet task
-
-
 ## Installation
 
 Install the packages  by running.

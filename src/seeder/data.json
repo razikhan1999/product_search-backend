@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Airfryer Toaster",
+    "description": "Cuisinart Airfryer Toaster Convection Oven, Air Fryer, Silver",
+    "category": "Electronics",
+    "price": 10.99,
+    "availability": 10,
+    "rating": 4
+  },
+  {
+    "name": "Top-Load Washer",
+    "description": "Kenmore 28 Top-Load Washer with Triple Action Agitator and 4.2 Cubic Ft. Total Capacity, White",
+    "category": "Electronics",
+    "price": 20.99,
+    "availability": 10,
+    "rating": 4.5
+  },
+  {
+    "name": "Pollar Bottle",
+    "description": "Polar Bottle Breakaway Wave Lightweight Bike Water Bottle - BPA-Free, Cycling & Sports Squeeze Bottle",
+    "category": "Electronics",
+    "price": 15.99,
+    "availability": 0,
+    "rating": 3.5
+  },
+  {
+    "name": "Gramin Sports Pro",
+    "description": "Garmin Sport PRO Bundle, Dog Training Collar and Handheld, 1handed Training of Up to 3 Dogs, Tone and Vibration",
+    "category": "Electronics",
+    "price": 25.99,
+    "availability": 10,
+    "rating": 5
+  },
+  {
+    "name": "Vega Sport Sugar Free Energizer",
+    "description": "Vega Sport Sugar Free Energizer, Acai Berry, Pre Workout Powder for Women and Men, Supports Energy and Focus, 35 servings",
+    "category": "Electronics",
+    "price": 30.99,
+    "availability": 0,
+    "rating": 3.5
+  },
+  {
+    "name": "Peltor Sport Tactical",
+    "description": "Peltor Sport Tactical 500 Smart Electronic Hearing Protector with Bluetooth Technology",
+    "category": "Electronics",
+    "price": 35.99,
+    "availability": 10,
+    "rating": 5
+  },
+  {
+    "name": "Digital Wi-Fi Smart Scale",
+    "description": "Withings Body+ - Digital Wi-Fi Smart Scale with Automatic Smartphone App Sync",
+    "category": "Electronics",
+    "price": 18.99,
+    "availability": 10,
+    "rating": 4
+  },
+  {
+    "name": "Rower-Ride Exercise Trainer",
+    "description": "BalanceFrom Rower-Ride Exercise Trainer for Total Body Workout",
+    "category": "Health & Fitness",
+    "price": 22.99,
+    "availability": 0,
+    "rating": 2
+    
+  },
+  {
+    "name": "Samsung S22 Ultra",
+    "description": "SAMSUNG Galaxy S22 Ultra Smartphone, Factory Unlocked Android Cell Phone, 128GB, 8K Camera & Video",
+    "category": "Mobiles & Tablets",
+    "price": 28.99,
+    "availability": 10,
+    "rating": 4.5
+  },
+  {
+    "name": "Galaxy Book Pro",
+    "description": "Samsung Galaxy Book Pro Windows 11 Intel Evo Platform Laptop Computer 15.6 AMOLED Screen 11th Gen Intel Core i7 Processor 16GB Memory 512GB SSD",
+    "category": "Mobiles & Tablets",
+    "price": 14.99,
+    "availability": 0,
+    "rating": 4
+  }
+]
